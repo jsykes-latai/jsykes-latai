@@ -1,6 +1,9 @@
+<p align="center">
+  <img src="https://images.credly.com/size/340x340/images/48847c2a-7b9a-4044-b13d-bb175649904b/image.png" >
+</p>
 
 
-<p align="left">
+<p align="center">
   <img src="https://api.boot.dev/v1/users/public/d6fd38d3-bdae-4839-b33f-5e291093f36a/thumbnail" >
 </p>
 
