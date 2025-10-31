@@ -1,11 +1,13 @@
 ## Hi there 👋
 
-<!--
-**jsykes-latai/jsykes-latai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <p align="left">
   <img src="https://api.boot.dev/v1/users/public/d6fd38d3-bdae-4839-b33f-5e291093f36a/thumbnail" >
 </p>
+
+
+<!--
+**jsykes-latai/jsykes-latai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
