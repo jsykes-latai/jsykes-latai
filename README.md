@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://images.credly.com/size/340x340/images/48847c2a-7b9a-4044-b13d-bb175649904b/image.png" >
+  <img src="https://images.credly.com/size/340x340/images/48847c2a-7b9a-4044-b13d-bb175649904b/image.png" width="300" height="300" >
+  <img src="https://images.credly.com/images/61733424-430b-4496-bd3c-cb0c7b9dcd67/image.png" width="300" height="300" >
 </p>
 
 
