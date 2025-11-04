@@ -43,6 +43,15 @@
 
 ###
 
+<p align="center">
+  <img src="https://images.credly.com/size/340x340/images/48847c2a-7b9a-4044-b13d-bb175649904b/image.png" width="200" height="200" >
+  <img src="https://images.credly.com/images/61733424-430b-4496-bd3c-cb0c7b9dcd67/image.png" width="200" height="200" >
+  <img src="https://images.credly.com/size/680x680/images/9a0255eb-a47d-4f3a-9611-243bfe3eb9e4/image.png" width="200" height="200" >
+  <img src="https://images.credly.com/images/56774818-e5ff-4dd0-89db-a2a571b0c459/image.png" width="200" height="200" >
+</p>
+
+###
+
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jsykes-latai&radius=16&theme=github-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=jsykes-latai&theme=dark_lover&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
@@ -61,12 +70,7 @@
 
 
 
-<p align="center">
-  <img src="https://images.credly.com/size/340x340/images/48847c2a-7b9a-4044-b13d-bb175649904b/image.png" width="300" height="300" >
-  <img src="https://images.credly.com/images/61733424-430b-4496-bd3c-cb0c7b9dcd67/image.png" width="300" height="300" >
-  <img src="https://images.credly.com/size/680x680/images/9a0255eb-a47d-4f3a-9611-243bfe3eb9e4/image.png" width="300" height="300" >
-  <img src="https://images.credly.com/images/56774818-e5ff-4dd0-89db-a2a571b0c459/image.png" width="300" height="300" >
-</p>
+
 
 
 <p align="center">
