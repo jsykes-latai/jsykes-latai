@@ -1,4 +1,4 @@
-<h1 align="center">Mission Operator | Computer Engineer, B.S.E</h1>
+<h1 align="center">Mission Operator | Computer Engineer, B.S.E. | IBM Certified</h1>
 
 ###
 
