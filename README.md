@@ -40,7 +40,6 @@
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=@jsykes_latai&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
   <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=jsykes&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="slack logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=jsykeslatai&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
 </div>
 
 ###
