@@ -47,6 +47,7 @@
   <img src="https://images.credly.com/size/680x680/images/9a0255eb-a47d-4f3a-9611-243bfe3eb9e4/image.png" width="150" height="150" >
   <img src="https://images.credly.com/images/56774818-e5ff-4dd0-89db-a2a571b0c459/image.png" width="150" height="150" >
   <img src="https://images.credly.com/size/680x680/images/40bee502-a5b3-4365-90e7-57eed5067594/image.png" width="150" height="150" >
+  <img src="https://images.credly.com/size/680x680/images/fadae326-142d-4855-a42f-f0b07e65eac1/image.png" width="150" height="150" >
 </p>
 
 ###
