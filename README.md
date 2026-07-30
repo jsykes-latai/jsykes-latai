@@ -1,4 +1,4 @@
-<h1 align="center">Truck Driver</h1>
+<h1 align="center">Truck Driver, Class DM</h1>
 
 <div align="center">
   <a href="www.linkedin.com/in/joshua-sykes-376129148" target="_blank">
