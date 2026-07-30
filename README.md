@@ -8,6 +8,10 @@
 
 ###
 
+
+
+###
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
   <img width="10" />
@@ -61,6 +65,17 @@
 
 ###
 
+<p align="center">
+  <img src="https://images.credly.com/size/340x340/images/48847c2a-7b9a-4044-b13d-bb175649904b/image.png" width="175" height="175" >
+  <img src="https://images.credly.com/images/61733424-430b-4496-bd3c-cb0c7b9dcd67/image.png" width="175" height="175" >
+  <img src="https://images.credly.com/size/680x680/images/9a0255eb-a47d-4f3a-9611-243bfe3eb9e4/image.png" width="175" height="175" >
+  <img src="https://images.credly.com/images/56774818-e5ff-4dd0-89db-a2a571b0c459/image.png" width="175" height="175" >
+  <img src="https://images.credly.com/size/680x680/images/40bee502-a5b3-4365-90e7-57eed5067594/image.png" width="175" height="175" >
+  <img src="https://images.credly.com/size/680x680/images/fadae326-142d-4855-a42f-f0b07e65eac1/image.png" width="175" height="175" >
+</p>
+
+###
+
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jsykes-latai&radius=16&theme=github-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
@@ -71,14 +86,7 @@
 
 ###
 
-<p align="center">
-  <img src="https://images.credly.com/size/340x340/images/48847c2a-7b9a-4044-b13d-bb175649904b/image.png" width="175" height="175" >
-  <img src="https://images.credly.com/images/61733424-430b-4496-bd3c-cb0c7b9dcd67/image.png" width="175" height="175" >
-  <img src="https://images.credly.com/size/680x680/images/9a0255eb-a47d-4f3a-9611-243bfe3eb9e4/image.png" width="175" height="175" >
-  <img src="https://images.credly.com/images/56774818-e5ff-4dd0-89db-a2a571b0c459/image.png" width="175" height="175" >
-  <img src="https://images.credly.com/size/680x680/images/40bee502-a5b3-4365-90e7-57eed5067594/image.png" width="175" height="175" >
-  <img src="https://images.credly.com/size/680x680/images/fadae326-142d-4855-a42f-f0b07e65eac1/image.png" width="175" height="175" >
-</p>
+
 
 ###
 
