@@ -67,7 +67,7 @@
 
 ###
 
-<img width="628" height="825" alt="Degree-1" src="https://github.com/user-attachments/assets/23db0e6f-8a58-46db-8d50-f9e4f06c6e08" />
+<img width="565" height="743" alt="Degree-1" src="https://github.com/user-attachments/assets/23db0e6f-8a58-46db-8d50-f9e4f06c6e08" />
 
 ###
 
